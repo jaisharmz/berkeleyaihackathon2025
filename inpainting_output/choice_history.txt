@@ -1,0 +1,6 @@
+Prompt: a majestic fantasy castle in a lush valley, high quality, 4k, digital art
+
+Final Rewards (Improvement): {'A': 0.2578125, 'B': 14.375}
+Counts: {'A': 1, 'B': 8}
+
+Sequence: BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBAAAAABBBBBBBBBBAAAAAB
